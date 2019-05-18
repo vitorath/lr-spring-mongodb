@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: pro.dev.vitorat.springmongo.SpringMongoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.734 s - in pro.dev.vitorat.springmongo.SpringMongoApplicationTests
